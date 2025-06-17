@@ -1,0 +1,1 @@
+# getaran-getaran-alam-dan-struktur-interior-planet
