@@ -1,0 +1,25 @@
+.wilhelm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frederick {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+.louis {
+    list-style-type: number;
+}
+
+.george {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alexander {
+    width: 30%;
+    height: 30%;
+}
